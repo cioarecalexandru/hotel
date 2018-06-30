@@ -1,6 +1,6 @@
 # client
 
-> A front end part of the hotel maintenance web app
+> A Vue.js project
 
 ## Build Setup
 
