@@ -1,14 +1,17 @@
 <template>
-  <main id="register">
+  <main>
     <h1>Register</h1>
+    <router-link to="/login">Login</router-link>
+    <p>Email:</p>
+    <p>Password:</p>
+    <p>Confirm password:</p>
   </main>
 </template>
 
 <script>
+
 </script>
 
 <style scoped>
-#register {
-  margin-top: 20%;
-}
+
 </style>
